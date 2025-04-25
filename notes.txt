@@ -1,0 +1,9 @@
+
+fonts
+font-family: "Playfair Display", serif;
+font-family: "Ubuntu", sans-serif;
+
+
+Color
+black- #000000
+blackash - 626262
